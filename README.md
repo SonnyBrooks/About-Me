@@ -4,7 +4,7 @@ Software engineer with 10+ years of personal development experience, 5+ years of
 
 <h1>Technical Expertise</h1>
 
-<h2>Frameworks</h2>
+<h2>Frameworks</h3>
 
 ![.Net](https://i.imgur.com/K0HdMF2.png)
 ![Vue.js](https://i.imgur.com/XK4Xihe.png)
@@ -18,7 +18,7 @@ Software engineer with 10+ years of personal development experience, 5+ years of
 ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg)
 ![Python](https://www.vectorlogo.zone/logos/python/python-horizontal.svg)
 ![SQL](https://i.imgur.com/7Q9t5lQ.png)
-![Ruby](https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg)
+![Java](https://www.vectorlogo.zone/logos/java/java-horizontal.svg)
 
 <h2>CI/Deployment</h2>
 
@@ -26,3 +26,15 @@ Software engineer with 10+ years of personal development experience, 5+ years of
 ![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg)
 ![Gitlab/CI](https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg)
 ![GitHub](https://www.vectorlogo.zone/logos/github/github-ar21.svg)
+
+<h1>Extras</h1>
+
+[Personal Website](https://www.tommydomenico.com/)
+
+[View Resume](https://drive.google.com/open?id=1U1uYNeWSQF6baRUwtE4dF_eM0qkdP1QY)
+
+Game Portfolio
+
+Steam Page
+
+[Hacker Rank](https://www.hackerrank.com/tomdom)
