@@ -12,8 +12,9 @@
 <h2>CI/Deployment</h2>
 
 ![Octopus](https://i.imgur.com/1woytuM.png)
-![Gitlab/CI](https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg)
 ![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg)
+![Gitlab/CI](https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg)
+![GitHub](https://www.vectorlogo.zone/logos/github/github-ar21.svg)
 
 <h2>Languages</h2>
 
