@@ -33,8 +33,6 @@ Software engineer with 10+ years of personal development experience, 5+ years of
 
 [View Resume](https://drive.google.com/open?id=1U1uYNeWSQF6baRUwtE4dF_eM0qkdP1QY)
 
-Game Portfolio
-
-Steam Page
+[Steam Page](https://store.steampowered.com/search/?developer=Tom%20Domenico)
 
 [Hacker Rank](https://www.hackerrank.com/tomdom)
