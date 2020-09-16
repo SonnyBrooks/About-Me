@@ -27,6 +27,7 @@ Software engineer with 10+ years of personal development experience, 5+ years of
 ![Gitlab/CI](https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg)
 ![GitHub](https://www.vectorlogo.zone/logos/github/github-ar21.svg)
 ![Kube](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg)
+![Docker](https://www.vectorlogo.zone/logos/docker/docker-official.svg)
 
 <h1>Extras</h1>
 
