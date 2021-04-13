@@ -37,4 +37,6 @@ Software engineer with 10+ years of personal development experience, 5+ years of
 
 [Steam Page](https://store.steampowered.com/search/?developer=Tom%20Domenico)
 
+[itch.io Page](https://tomdomgames.itch.io/)
+
 [Hacker Rank](https://www.hackerrank.com/tomdom)
