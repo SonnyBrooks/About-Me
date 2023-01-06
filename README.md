@@ -33,7 +33,7 @@ Software engineer with 10+ years of personal development experience, 5+ years of
 
 [Personal Website](https://www.tommydomenico.com/)
 
-[View Resume](https://drive.google.com/open?id=1U1uYNeWSQF6baRUwtE4dF_eM0qkdP1QY)
+[View Resume](https://drive.google.com/file/d/1lCC-kbaSJLEAQPqXIycHXZ0jKyXOiPbD/view)
 
 [Steam Page](https://store.steampowered.com/search/?developer=Tom%20Domenico)
 
